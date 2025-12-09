@@ -17,7 +17,7 @@ const Navbar = () => {
           <li className="">
             <a
               href="#"
-              className="border-b-3 border-rpimary py-1   border-primary duration-200 hover:font-bold"
+              className="border-b-3 border-rpimary py-1   border-primary duration-200 hover:font-bold hover:text-amber-500"
             >
               Foods
             </a>
@@ -25,7 +25,7 @@ const Navbar = () => {
           <li className="">
             <a
               href="#"
-              className="border-b-3 border-rpimary py-1   border-primary duration-200 hover:font-bold"
+              className="border-b-3 border-rpimary py-1   border-primary duration-200 hover:font-bold hover:text-amber-500"
             >
               Tables
             </a>
@@ -33,7 +33,7 @@ const Navbar = () => {
           <li className="">
             <a
               href="#"
-              className="border-b-3 border-rpimary py-1   border-primary duration-200 hover:font-bold"
+              className="border-b-3 border-rpimary py-1   border-primary duration-200 hover:font-bold hover:text-amber-500"
             >
               Logout
             </a>
