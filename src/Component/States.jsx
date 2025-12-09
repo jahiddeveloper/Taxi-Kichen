@@ -18,7 +18,7 @@ const States = () => {
       {/* Total Cocking */}
       <div className="border-4 border-dotted rounded-2xl border-amber-500 p-5">
         <div className="flex flex-col lg:flex-row items-center justify-between">
-            <Heater className="animate-pulse" color="#fcb700" size={100} />
+          <Heater className="animate-pulse" color="#fcb700" size={100} />
           <div className="text-xl text-center">
             Current Cocking
             <h2 className="text-6xl font-bold">0</h2>
