@@ -1,15 +1,14 @@
-import './App.css'
-import Logo from './Component/Logo'
-import Navbar from './Component/Navbar'
+import "./App.css";
+import Navbar from "./Component/Navbar";
 
 function App() {
-
   return (
     <>
-    <Logo></Logo>
-    <Navbar></Navbar>
+      <header className="max-w-11/12 mx-auto py-3">
+        <Navbar></Navbar>
+      </header>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
