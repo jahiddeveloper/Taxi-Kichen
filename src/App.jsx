@@ -1,10 +1,13 @@
 import './App.css'
+import Logo from './Component/Logo'
+import Navbar from './Component/Navbar'
 
 function App() {
 
   return (
     <>
-    <h1 className='font font-bold text-4xl'>Hello world</h1>
+    <Logo></Logo>
+    <Navbar></Navbar>
     </>
   )
 }
